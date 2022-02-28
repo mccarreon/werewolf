@@ -1,0 +1,25 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Matt Carreon",
+            "alignment": false,
+            "role": false,
+            "alive": true
+        },
+        {
+            "id": 2,
+            "name": "John Doe",
+            "alignment": "Good",
+            "role": "Priest",
+            "alive": false
+        },
+        {
+            "id": 3,
+            "name": "Jane Doe",
+            "alignment": "Evil",
+            "role": "Butcher",
+            "alive": true
+        }
+    ]
+}
